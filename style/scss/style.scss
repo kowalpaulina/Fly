@@ -442,6 +442,7 @@ popular-destination
         padding:20px;
         background-color:rgb(242,229,242);
         visibility: hidden;
+        z-index: 999;
     
     h3{
        font-size: $h3;

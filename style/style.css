@@ -456,7 +456,8 @@ popular-destination
   align-items: center;
   padding: 20px;
   background-color: #f2e5f2;
-  visibility: hidden; }
+  visibility: hidden;
+  z-index: 999; }
   .modal h3 {
     font-size: 180%;
     text-align: center;
